@@ -5,7 +5,7 @@ public class OperatorLearning {
     public static void main(String[] args) {
 
         int x = 5; // x = 8
-        int y = 4; // y = 5
+        int y = 6; // y = 5
         int z = x++ + ++y; // z = 12
 
         int t = 7/4; // Chia lấy phần nguyên t = 1
