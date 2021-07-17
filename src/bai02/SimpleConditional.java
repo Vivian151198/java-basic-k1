@@ -10,7 +10,7 @@ public class SimpleConditional {
         Scanner scanner = new Scanner(System.in);
         while (true) {
 
-            System.out.printf("Please enter a number:\n");
+            System.out.printf("Please enter a number:");
             inputNumber = scanner.nextInt();
 
             if ((inputNumber % 2) == 0) {
