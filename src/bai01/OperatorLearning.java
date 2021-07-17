@@ -4,7 +4,7 @@ public class OperatorLearning {
 
     public static void main(String[] args) {
 
-        int x = 10; // x = 8
+        int x = 5; // x = 8
         int y = 4; // y = 5
         int z = x++ + ++y; // z = 12
 
