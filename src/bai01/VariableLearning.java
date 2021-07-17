@@ -2,7 +2,7 @@ package bai01;
 
 public class VariableLearning {
     public static void main(String[] args) {
-        String myName = "Van" ;
+        String myName = "Van1" ;
         int myAge = 19;
         float myNumber = 10.0f;
        double myDoubleNum = 2.0;
